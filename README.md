@@ -3,6 +3,8 @@ This repository contains source code for the project page for the paper "A3D: Do
 
 
 ## Changelog
+#### 2025 May 12
+- Added the link to the code
 #### 2025 Mar 10
 - Updated the links and BibTeX for the published version
 - Added examples of varying degree of alignment and transitions between the aligned objects
